@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstdlib>
-#include <ctime>
+#include <ctime> 
 using namespace std;
 //로또 번호 5셋트 정보를 가지고 있는 클래스
 class Lotto {
